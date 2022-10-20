@@ -1,0 +1,14 @@
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.exe
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.deps.json
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.runtimeconfig.json
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.runtimeconfig.dev.json
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.dll
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\bin\Debug\netcoreapp3.1\EmployeePayRole.pdb
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.csproj.AssemblyReference.cache
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.AssemblyInfoInputs.cache
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.AssemblyInfo.cs
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.dll
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.pdb
+C:\Users\Samir\Desktop\EmployeePayRole\EmployeePayRole\obj\Debug\netcoreapp3.1\EmployeePayRole.genruntimeconfig.cache
